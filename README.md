@@ -2,10 +2,9 @@
 
 This repository is home to the code accompanying  Deep Learning with TensorFlow, Keras, and PyTorch series of video tutorials.
 
-# Notebooks
+# Curriculum
 
-Below is a breakdown of the lessons covered across the videos, including their duration and associated notebooks.
-
+Below is a breakdown of the lessons covered across the videos:
 ### Deep Learning with TensorFlow, Keras, and PyTorch
 
 * #### Lesson 1: Introduction to Deep Learning and Artificial Intelligence
